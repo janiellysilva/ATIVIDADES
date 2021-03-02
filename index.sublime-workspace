@@ -1,0 +1,273 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"font-",
+				"font-style\tproperty"
+			],
+			[
+				"w",
+				"width\tproperty"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"ba",
+				"background-color\tproperty"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"cel",
+				"cellpadding\tAttr"
+			],
+			[
+				"i",
+				"img\tTag"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"te",
+				"textarea\tTag"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"se",
+				"select\tTag"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"lo",
+				"Login"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/windows/Music/NONO PROJETO/css/estilo.css",
+		"/C/Users/windows/Documents/GitHub/ATIVIDADES/index.html",
+		"/C/Users/windows/Music/PRIMEIRA PAGINA CSS/index.html",
+		"/C/Users/windows/Music/EXEMPLOS DE CSS/index.html",
+		"/C/Users/windows/Music/EXEMPLOS DE CSS/CSS/estilo.css",
+		"/C/Users/windows/Desktop/PROJETOFINAL/pacote-viagem.html",
+		"/C/Users/windows/Desktop/PROJETOFINAL/quem-somos.html",
+		"/C/Users/windows/Desktop/PROJETOFINAL/projetofinal.html",
+		"/C/Users/windows/Desktop/PROJETOFINAL/contato.html",
+		"/C/Users/windows/Desktop/PROJETOFINAL/destinos.html",
+		"/C/Users/windows/Music/PROJETOFINAL/index.html",
+		"/C/Users/windows/Music/PROJETOFINAL/destino.html",
+		"/C/Users/windows/Music/PROJETOFINAL/Projetofinal.html",
+		"/C/Users/windows/Music/PROJETOFINAL/quem-somos.html",
+		"/C/Users/windows/Music/PROJETOFINAL/pacote-viagem.html",
+		"/C/Users/windows/Music/PROJETOFINAL/css/estilo.css",
+		"/C/Users/windows/Music/PROJETOFINAL/contato.html",
+		"/C/Users/windows/Music/PROJETOFINAL/pacote-viagem",
+		"/C/Users/windows/Music/PRIMEIRA PAGINA CSS/minha.html",
+		"/C/Users/windows/Music/PRIMEIRA PAGINA CSS/links.html",
+		"/C/Users/windows/Music/PRIMEIRA PAGINA CSS/pensamento.html",
+		"/C/Users/windows/Music/PRIMEIRA PAGINA CSS/css/estilo.css",
+		"/C/Users/windows/Music/TERCEIRO PROJETO/AULA06/css/estilo.css",
+		"/C/Users/windows/Music/TERCEIRO PROJETO/AULA06/index.html",
+		"/C/Users/windows/Documents/Aula04/contato.html",
+		"/C/Users/windows/Documents/Aula04/index.html",
+		"/C/Users/windows/Documents/Aula04/empresa.html",
+		"/C/Users/windows/Music/PRIMEIRO PROJETO/index.html",
+		"/C/Users/windows/Documents/Aula04/css/estilo.css",
+		"/C/Users/windows/Music/pergunta/css/estilo.css",
+		"/C/Users/windows/Music/pergunta/index.html",
+		"/C/Users/windows/Music/OITAVO PROJETO/atividade08.html",
+		"/C/Users/windows/Music/OITAVO PROJETO/cadastro02.html",
+		"/C/Users/windows/Music/SETIMO PROJETO/cadastro.html",
+		"/C/Users/windows/Music/OITAVO PROJETO/atividade07.html",
+		"/C/Users/windows/Music/OITAVO PROJETO/cadastro.html",
+		"/C/Users/windows/Music/OITAVO PROJETO/ficha.html",
+		"/C/Users/windows/Music/OITAVO PROJETO/index.html",
+		"/C/Users/windows/Music/OITAVO PROJETO/ficha",
+		"/C/Users/windows/Music/SETIMO PROJETO/atividade07.html",
+		"/C/Users/windows/Music/OITAVO PROJETO/formulario.html",
+		"/C/Users/windows/Music/OITAVO PROJETO/Atividade07.html",
+		"/C/Users/windows/Music/OITAVO PROJETO/css/estilo.css",
+		"/C/Users/windows/Music/SETIMO PROJETO/javascript/cadastro.html",
+		"/C/Users/windows/Music/SETIMO PROJETO/index.html",
+		"/C/Users/windows/Music/SETIMO PROJETO/css/estilo.css",
+		"/C/Users/windows/Documents/Introdução web/SegundoProjeto/index.html",
+		"/C/Users/windows/Documents/Introdução web/SegundoProjeto/index.html/index.html",
+		"/C/Users/windows/Music/PRIMEIRO PROJETO/javascript/index.html",
+		"/C/Users/windows/Music/PRIMEIRO PROJETO/javascript/Contato.html",
+		"/C/Users/windows/Music/PRIMEIRO PROJETO/javascript/Empresa.html",
+		"/C/Users/windows/Documents/MEU PROJETO PROGRAMAÇÃO WEB/index.html",
+		"/C/Users/windows/Music/PRIMEIRO PROJETO/css/estilo.css",
+		"/C/Users/windows/djangogirls/.gitignore",
+		"/C/Users/windows/djangogirls/blog/admin.py",
+		"/C/Users/windows/djangogirls/blog/models.py",
+		"/C/Users/windows/djangogirls/mysite/settings.py"
+	],
+	"find":
+	{
+		"height": 57.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 256.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
