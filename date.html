@@ -1,0 +1,63 @@
+<!doctype html>
+<!DOCTYPE html>
+<html>
+
+<head>
+	<title>Atributo data</title>
+	<meta charset="utf-8">
+
+	<style>
+
+	.pessoa{
+		color: red;
+		border: 10px red;
+	}
+
+	.pessoa[data-idade='30']{
+		color: blue;
+	}
+
+	
+	.pessoa::before{
+		content: 'Nome: ';
+	}
+	
+	
+
+	.pessoa::after{
+		content: '-Idade: 'attr(data-idade) ' Anos - C.P.F: ' attr(data-cpf);
+					}
+	
+
+	
+
+	
+	
+	</style>
+
+	<script type="text/javascript">
+		function mostravador(componente){
+			var valor = componente.getattribute('data-idade');
+			/*alert(valor);*/
+		}
+		
+	</script>
+	</head>
+
+
+	<body>
+
+<div>
+		<ul>
+			
+			<li class="pessoa" onclick="mostravador(this)" data-cpf="999" data-idade="20">João </li>
+			<li class="pessoa" onclick="mostravador(this)" data-cpf="888" data-idade="30">José </li>
+			<li class="pessoa" onclick="mostravador(this)" data-cpf="111" data-idade="40">Maria </li>
+			
+		</ul>
+
+		</div>
+
+		
+	</body>
+	</html>
