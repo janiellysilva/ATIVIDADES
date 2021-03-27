@@ -8,45 +8,64 @@
 		<style>
 
 		
-		div{
+		.div{
 			width: 250px;
 			height: 250px;
-			background: purple;
-			display: inline-block;
-			line-height: 250px;
-			border: 10px ;
+			float: left;
 			
 
 		}
 
+		.box{
+			border: solid 100px;
+			float: left;
+			box-sizing: border-box;
+		}
 
 
 
 		.box-1{
 			border-radius: 100px 100px 0px 100px;
+			border-color: red;
+
+					
+			
+
+		}
+
+		.box-2{
+			border-radius: 100px 100px 100px 0px;
+			border-color: yellow;
 					
 			
 
 		}
 
 		.box-3{
-			border-radius: : 200px 100px 0px 100px;
+			border-radius: 100px 0px 100px 100px;
+			border-color: green;
+					
 		}
 
 		.box-4{
-			border-radius: : 200px 100px 0px 100px;
+			border-radius: 0px 100px 100px 100px;
+			border-color: purple;
+					
+			
+
 		}
 
 	</style>
 	</head>
 	<body>
 
-	<div class="box-1">   </div>
-	<div class="box-2">   </div>
-	<div class="box-3">   </div>
-	<div class="box-4">   </div>
+	<div class="div">
 
-
+	<div class="box" id="box-1"></div>
+	<div class="box" id="box-2"></div>
+	<div class="box" id="box-3"></div>
+	<div class="box" id="box-4"></div>
+	</div>
 	
 	</body>
 	</html>
